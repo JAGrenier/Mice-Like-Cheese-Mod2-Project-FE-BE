@@ -18,7 +18,7 @@ Tuesday, September 8th through Friday, September 11th, 2020
 6. Get to logging some cheese!
 
 ##  Demo Video
-[Demo Video](https://www.loom.com/share/eaeddb471d5a404e9022800266f2bfe8)
+[Demo Video](https://youtu.be/HnAGWp8BoNk)
 
 ## Contributors and Contact
 
