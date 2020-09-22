@@ -2,7 +2,7 @@
 
 ## Description
 
-Mice like cheese! was created during Module 2 of the Flatiron School Software Engineering Immersive program. Contributors were given 4 days to create and present this project. The project has a home page, cheese log, and cheese leaderboard. Users can log how many cheeses a mouse has eaten as well as create a new mouse. The data input into the chese log page will then update on the leaderboard. The leaderboard sorts data descending from the mouse with highest number of cheeses.
+Mice like cheese! was created during Module 2 of the Flatiron School Software Engineering Immersive program. Contributors were given 4 days to create and present this project. The project has a home page, cheese log, and cheese leaderboard. Users can log how many cheeses a mouse has eaten as well as create a new mouse. The data input into the cheese log page will then update on the leaderboard. The leaderboard sorts data descending from the mouse with highest number of cheeses.
 
 ## Dates
 
