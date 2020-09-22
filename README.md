@@ -17,7 +17,8 @@ Tuesday, September 8th through Friday, September 11th, 2020
 5. Open back end on a local host and front end on a server
 6. Get to logging some cheese!
 
-## Youtube Demo Video
+##  Demo Video
+[Demo Video](https://www.loom.com/share/eaeddb471d5a404e9022800266f2bfe8)
 
 ## Contributors and Contact
 
